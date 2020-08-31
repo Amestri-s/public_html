@@ -35,6 +35,8 @@
     }
   }
 
+  //TODO ADD IN RESOURCE THING
+
 
   $users = mysqli_query($link, 'SELECT id, username, perm, accepted_at FROM members');
 
@@ -273,7 +275,7 @@
 
 
 <?php
-
+    mysql_close($link);
     require "require/footer.php";
 
 ?>
