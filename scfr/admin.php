@@ -144,7 +144,7 @@
 
               echo "<td>".$res['text']."</td>";
 
-              echo "<td><a class='btn btn-red' href=\"action.php?id=$res[id]&action=deletenotice&ret=admin\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>";
+              echo "<td><a class='btn btn-red' href=\"action.php?id=$res[id]&action=delnot&ret=admin\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>";
 
             }
 
@@ -226,7 +226,7 @@
 
                 echo '<td><a class="btn btn-danger" href="'.$res['resLink'].'" target="_blank">Link to '.$res['name'].'</a></td>';
 
-                echo "<td><a class='btn btn-red' href=\"action.php?id=$res[id]&action=deleteresource&ret=admin\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>";
+                echo "<td><a class='btn btn-red' href=\"action.php?id=$res[id]&action=delres&ret=admin\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>";
 
               }
 
