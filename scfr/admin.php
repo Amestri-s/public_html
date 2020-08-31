@@ -275,7 +275,6 @@
 
 
 <?php
-    mysql_close($link);
     require "require/footer.php";
 
 ?>

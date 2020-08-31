@@ -261,5 +261,5 @@
 
     }
 
-
+   mysql_close($link);
 ?>
