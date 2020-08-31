@@ -244,7 +244,7 @@
 
         header('Location: /scfr/'.$ret.'.php');
 
-    }else if($action == "deleteresource"){}
+    }else if($action == "deleteresource"){
 
         $result = mysqli_query($link, "DELETE FROM resources WHERE id=$id");
 
