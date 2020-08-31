@@ -243,7 +243,6 @@
 
         $result = mysqli_query($link, "DELETE FROM notices WHERE id=$id");
 
-
         header('Location: /scfr/'.$ret.'.php');
 
     }else if($action == "delres"){
