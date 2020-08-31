@@ -1,0 +1,760 @@
+[09-Aug-2020 10:41:22 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 10:41:43 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 10:41:50 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:04:28 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:17:28 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:17:32 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:17:46 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:18:11 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:18:35 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:18:39 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:18:49 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:18:49 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:19:32 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:19:33 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:19:34 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:19:48 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:19:49 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:19:55 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:01 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:01 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:12 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:12 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:56 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:56 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:59 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:59 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:59 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:20:59 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:03 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:04 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:06 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:06 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:09 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:09 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:21:54 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:02 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:14 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:14 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:16 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/empdash.php(123): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:20 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:33 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:33 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:35 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:35 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:36 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:37 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:37 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:40 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:43 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:43 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:45 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:22:46 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:14 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:14 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:20 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:20 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:25 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:26 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:32 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:32 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:39 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:39 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:43 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:23:43 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:25:20 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:25:25 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:25:44 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:26:58 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:26:58 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:29:09 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:35:53 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:35:58 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:36:00 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:36:26 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:39:24 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:39:31 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:39:36 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:39:38 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/empdash.php(123): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:39:40 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:39:42 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:45:47 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:45:47 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:45:50 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:45:51 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:45:53 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 18:45:54 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:15:18 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:15:23 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:15:27 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:15:34 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/application.php(319): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:15:52 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:16:05 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:16:07 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:16:15 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/empdash.php(123): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:16:28 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:16:30 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/application.php(319): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:17:32 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/application.php(319): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:17:32 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:17:35 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:17:57 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:18:24 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[09-Aug-2020 20:18:40 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[11-Aug-2020 18:12:21 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[11-Aug-2020 18:12:21 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:22 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:22 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:30 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:30 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:34 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:34 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:41 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[13-Aug-2020 07:17:41 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 16:51:17 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 16:51:20 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 16:51:28 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/empdash.php(123): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 16:51:41 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:06:28 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:08:04 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:08:08 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:08:10 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:08:19 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:08:26 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:08:29 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:12:21 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[14-Aug-2020 18:12:22 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:41:50 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:41:57 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:41:57 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:41:58 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:42:00 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/dashboard.php(171): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:43:14 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/empdash.php(123): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:43:35 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:43:37 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/mod.php(262): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:43:45 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[29-Aug-2020 20:53:56 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[30-Aug-2020 11:53:23 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:05:11 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:05:13 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:06:49 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:06:52 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:07:26 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:07:37 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/empdash.php(123): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:57:06 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 13:57:19 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:04:47 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:04:58 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:05:00 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:05:05 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:05:09 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:05:14 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:05:20 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/admin.php(277): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
+[31-Aug-2020 14:07:04 GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_close() in /home/scfrsite/public_html/scfr/require/footer.php:64
+Stack trace:
+#0 /home/scfrsite/public_html/scfr/index.php(111): require()
+#1 {main}
+  thrown in /home/scfrsite/public_html/scfr/require/footer.php on line 64
