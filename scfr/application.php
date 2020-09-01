@@ -190,6 +190,82 @@
 
             }
 
+            $webhook_url = "https://discordapp.com/api/webhooks/743916683328094279/bISGeMUy6WB91VJLpedMB_DbblD4hYOUHhZAzKJrQIC7HOMYE84M765qGVFlh5cFMwsJ";
+            $timestamp = date("c", strtotime("now"));
+
+            $json_data = json_encode([
+
+                    "username" => "SCFR",
+
+                    "avatar_url" => "https://scfr.site/img/logo.png",
+
+                    "embeds" => [
+                        [
+                            "title" => "Application",
+
+                            "type" => "rich",
+
+                            "description" => $_SESSION['username']." just created an application. You can view the full details of the app or accept it by logging in to your account at the SCFR site.",
+
+                            "url" => "https://scfr.site/scfr",
+
+                            "timestamp" => $timestamp,
+
+                            "color" => hexdec("#ff0000"),
+
+                            "footer" => [
+                                "text" => "SCFR",
+                            ],
+
+                            "fields" => [
+                                [
+                                    "name" => "Username",
+                                    "value" => $username,
+                                    "inline" => false
+                                ],
+                                [
+                                    "name" => "Discord username",
+                                    "value" => $discordUsername,
+                                    "inline" => false
+                                ],
+                                [
+                                    "name" => "Age",
+                                    "value" => $age,
+                                    "inline" => false
+                                ],
+                                [
+                                    "name" => "Why do you want to join SCFR?",
+                                    "value" => $whyBePart,
+                                    "inline" => false
+                                ],
+                                [
+                                    "name" => "What experience do you have?",
+                                    "value" => $experience,
+                                    "inline" => false
+                                ],
+                                ],
+                                [
+                                    "name" => "Anything else we should know?",
+                                    "value" => $anythingShouldKnow,
+                                    "inline" => false
+                                ]
+                            ]
+                        ]
+                    ]
+
+                ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE );
+
+                $ch = curl_init($webhook_url);
+                curl_setopt( $ch, CURLOPT_HTTPHEADER, array('Content-type: application/json'));
+                curl_setopt( $ch, CURLOPT_POST, 1);
+                curl_setopt( $ch, CURLOPT_POSTFIELDS, $json_data);
+                curl_setopt( $ch, CURLOPT_FOLLOWLOCATION, 1);
+                curl_setopt( $ch, CURLOPT_HEADER, 0);
+                curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1);
+
+                $response = curl_exec( $ch );
+                curl_close( $ch );
+
             header("location: /scfr/dashboard.php");
 
             
