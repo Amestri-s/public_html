@@ -159,7 +159,7 @@
             WHERE id='.$id;
 
             $userPermUpdate = 'UPDATE members
-            SET perm = 1
+            SET perm = "1"
 
             WHERE id='.$id;
 
