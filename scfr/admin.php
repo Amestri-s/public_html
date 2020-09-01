@@ -17,9 +17,9 @@
 
     $titleName = $_POST['titleName'];
     $titleText = $_POST['titleText'];
-    $resTitle = $_POST['resTitle'];
-    $resDesc = $_post['resDesc'];
-    $resLink = $_POST['resLink'];
+    $resTitle = trim($_POST['resTitle']);
+    $resDesc = trim($_post['resDesc']);
+    $resLink = trim($_POST['resLink']);
 
     if(isset($titleName)) {
       //Notice
