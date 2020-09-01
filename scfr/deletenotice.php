@@ -29,7 +29,7 @@
 
                 "type" => "rich",
 
-                "description" => $_SESSION['username']."deleted a notice.",
+                "description" => $_SESSION['username']." deleted a notice.",
 
                 "url" => "https://scfr.site/scfr",
 
