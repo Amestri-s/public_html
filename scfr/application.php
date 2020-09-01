@@ -223,17 +223,17 @@
                                 [
                                     "name" => "Username",
                                     "value" => $username,
-                                    "inline" => false
+                                    "inline" => true
                                 ],
                                 [
                                     "name" => "Discord username",
                                     "value" => $discordUsername,
-                                    "inline" => false
+                                    "inline" => true
                                 ],
                                 [
                                     "name" => "Age",
                                     "value" => $age,
-                                    "inline" => false
+                                    "inline" => true
                                 ],
                                 [
                                     "name" => "Why do you want to join SCFR?",
@@ -245,7 +245,6 @@
                                     "value" => $experience,
                                     "inline" => false
                                 ],
-                                ],
                                 [
                                     "name" => "Anything else we should know?",
                                     "value" => $anythingShouldKnow,
@@ -253,6 +252,7 @@
                                 ]
                             ]
                         ]
+                    ]
 
                 ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE );
 
