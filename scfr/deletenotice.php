@@ -15,6 +15,9 @@
 
     $id = $_GET['id'];
 
+    $noticeLookup = mysqli_query($link, "SELECT * FROM notices WHERE id=$id");
+    $noticeDetails = mysqli_fetch_array($noticeLookup);
+
     $result = mysqli_query($link, "DELETE FROM notices WHERE id=$id");
 
     $json_data = json_encode([
@@ -40,7 +43,25 @@
                 "footer" => [
                     "text" => "SCFR",
                 ],
-            ]
+
+                "fields" => [
+                    [
+                        "name" => "Title",
+                        "value" => $noticeDetails['title'],
+                        "inline" => false
+                    ],
+                    [
+                        "name" => "Text",
+                        "value" => $noticeDetails['text'],
+                        "inline" => false
+                    ],
+[
+                        "name" => "Author",
+                        "value" => $noticeDetails['author'],
+                        "inline" => false
+                    ]
+
+                ]
         ]
 
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE );
