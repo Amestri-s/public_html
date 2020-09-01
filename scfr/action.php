@@ -158,8 +158,14 @@
 
             WHERE id='.$id;
 
+            $userPermUpdate = 'UPDATE members
+            SET perm = 1
+
+            WHERE id='.$id;
+
             $result = mysqli_query($link, $acceptSQLOutcome);
             $result = mysqli_query($link, $acceptSQLFeedback);
+            $result = mysqli_query($link, $userPermUpdate);
 
             try {
                 //Server settings
