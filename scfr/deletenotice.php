@@ -48,12 +48,12 @@
                     [
                         "name" => "Title",
                         "value" => $noticeDetails['title'],
-                        "inline" => false
+                        "inline" => true
                     ],
                     [
                         "name" => "Text",
                         "value" => $noticeDetails['text'],
-                        "inline" => false
+                        "inline" => true
                     ],
                     [
                         "name" => "Author",
