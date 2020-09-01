@@ -159,9 +159,10 @@
             WHERE id='.$id;
 
             $userPermUpdate = 'UPDATE members
+
             SET perm = 1
 
-            WHERE username='.$res['username'];
+            WHERE username = '.$res['username'];
 
             $result = mysqli_query($link, $acceptSQLOutcome);
             $result = mysqli_query($link, $acceptSQLFeedback);
