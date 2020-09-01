@@ -144,7 +144,7 @@
 
               echo "<td>".$res['text']."</td>";
 
-              echo "<td><a class='btn btn-red' href=\"deletenotice.php?id=$res[id]" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>";
+              echo "<td><a class='btn btn-red' href=\"deletenotice.php?id=$res[id]\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>";
 
             }
 
