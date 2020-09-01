@@ -161,6 +161,12 @@
             $userPermUpdate = 'UPDATE members SET perm = 1 WHERE username = '.$res['username'];
 
             $result = mysqli_query($link, $userPermUpdate);
+            if(!($result){
+                die("F". mysql_error());
+                echo($userPermUpdate);
+            }
+            echo($userPermUpdate);
+
             $result = mysqli_query($link, $acceptSQLOutcome);
             $result = mysqli_query($link, $acceptSQLFeedback);
 
@@ -189,7 +195,7 @@
                 echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
             }
 
-            header('Location: /scfr/'.$ret.'.php'); 
+
 
         }else if($action == "deny") {
 
