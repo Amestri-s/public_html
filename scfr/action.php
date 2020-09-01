@@ -162,8 +162,7 @@
 
             $result = mysqli_query($link, $userPermUpdate);
             if(!($result){
-                die("F". mysql_error());
-                echo($userPermUpdate);
+                echo('oof an errior has ooicureed'.mysqli_error($link);
             }
             echo($userPermUpdate);
 
