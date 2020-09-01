@@ -158,9 +158,7 @@
 
             WHERE id='.$id;
 
-            $userPermUpdate = 'UPDATE members
-            SET perm = 1
-            WHERE username = '.$res['username'];
+            $userPermUpdate = 'UPDATE members SET perm=1 WHERE username='.$res['username'];
 
             $result = mysqli_query($link, $acceptSQLOutcome);
             $result = mysqli_query($link, $acceptSQLFeedback);
@@ -176,8 +174,7 @@
                 $mail->SMTPSecure = PHPMailer::ENCRYPTION_SMTPS;         // Enable TLS encryption; `PHPMailer::ENCRYPTION_SMTPS` encouraged
                 $mail->Port       = 465;                                    // TCP port to connect to, use 465 for `PHPMailer::ENCRYPTION_SMTPS` above
             
-                //Recipients
-                $mail->setFrom('admin@scfr.site', 'SCFR Apps');
+                //Recipients $mail->setFrom('admin@scfr.site', 'SCFR Apps');
                 $mail->addAddress($res['email']);
             
                 // Content
