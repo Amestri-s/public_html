@@ -189,6 +189,8 @@
                 echo "Message could not be sent. Mailer Error: {$mail->ErrorInfo}";
             }
 
+            header('Location: /scfr/'.$ret.'.php');
+
 
 
         }else if($action == "deny") {
