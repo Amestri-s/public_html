@@ -239,17 +239,6 @@
 
             header('Location: /scfr/'.$ret.'.php');   
         }
-    }else if($action == "delnot"){
-
-        $result = mysqli_query($link, "DELETE FROM notices WHERE id=$id");
-
-        header('Location: /scfr/'.$ret.'.php');
-
-    }else if($action == "delres"){
-
-        $result = mysqli_query($link, "DELETE FROM resources WHERE id=$id");
-
-        header('Location: /scfr/'.$ret.'.php');
 
     }else{
 
