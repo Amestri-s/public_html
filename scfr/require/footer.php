@@ -60,9 +60,6 @@
     <p><strong>Adam (Amestris)</strong> & <strong>SCFR</strong><br><br>
     <?php echo "Page loaded in ". timer(). " seconds.";?><br>
     <?php date_default_timezone_set('GMT'); echo 'Server time: '; echo date('Y-m-d H:i:s');?>
-    <?php
-      mysql_close($link);
-    ?>
   </div>
   <!-- Copyright -->
 
