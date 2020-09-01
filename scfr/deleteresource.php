@@ -12,7 +12,7 @@
 
     $id = $_GET['id'];
 
-    $result = mysqli_query($link, "DELETE FROM notices WHERE id=$id");
+    $result = mysqli_query($link, "DELETE FROM resources WHERE id=$id");
 
     header('Location: /scfr/admin.php');
 
