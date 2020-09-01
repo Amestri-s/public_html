@@ -161,7 +161,7 @@
             $userPermUpdate = 'UPDATE members SET perm = 1 WHERE username = '.$res['username'];
 
             $result = mysqli_query($link, $userPermUpdate);
-            if(!($result){
+            if(!($result)){
                 echo('oof an errior has ooicureed'.mysqli_error($link);
             }
             echo($userPermUpdate);
