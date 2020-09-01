@@ -19,19 +19,17 @@
 
     $json_data = json_encode([
 
-        "content" => "SCFR Logs",
-
         "username" => "SCFR",
 
         "avatar_url" => "https://scfr.site/img/logo.png",
 
         "embeds" => [
             [
-                "title" => $_SESSION['username'],
+                "title" => "Site logs",
 
                 "type" => "rich",
 
-                "description" => "just deleted a notice.",
+                "description" => $_SESSION['username']."deleted a notice.",
 
                 "url" => "https://scfr.site/scfr",
 
