@@ -17,6 +17,9 @@
 
     $titleName = $_POST['titleName'];
     $titleText = $_POST['titleText'];
+    $resTitle = $_POST['resTitle'];
+    $resDesc = $_post['resDesc'];
+    $resLink = $_POST['resLink'];
 
     if(isset($titleName)) {
       //Notice
@@ -32,6 +35,16 @@
           echo "Something went wrong. Please try again later.";  
         }
       }
+    }else if(isset($resTitle) {
+
+        $sql = "INSERT INTO resources (name, description, resLink) VALUES (?, ?, ?)";
+
+        if($stmt = mysqli_prepare($link, $sql)){
+            mysqli_stmt_bind_param($stmt, "sss", $resTitle, $resDesc, $resLink);
+                if(!(mysqli_stmt_execute($stmt))){
+                    echo "Something went wrong. Please try again later.";
+                }
+        }
     }
   }
 
