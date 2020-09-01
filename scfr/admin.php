@@ -114,7 +114,7 @@
 
                                   "type" => "rich",
 
-                                  "description" => $_SESSION['username']." added a notice.",
+                                  "description" => $_SESSION['username']." added a resource.",
 
                                   "url" => "https://scfr.site/scfr",
 
