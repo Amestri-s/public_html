@@ -47,7 +47,7 @@
 
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE );
 
-    $ch = curl_init( $webhookurl );
+    $ch = curl_init($webhook_url);
     curl_setopt( $ch, CURLOPT_HTTPHEADER, array('Content-type: application/json'));
     curl_setopt( $ch, CURLOPT_POST, 1);
     curl_setopt( $ch, CURLOPT_POSTFIELDS, $json_data);
