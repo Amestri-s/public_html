@@ -35,7 +35,7 @@
           echo "Something went wrong. Please try again later.";  
         }
       }
-    }else if(isset($resTitle) {
+    }else if(isset($resTitle)) {
 
         $sql = "INSERT INTO resources (name, description, resLink) VALUES (?, ?, ?)";
 
