@@ -140,7 +140,7 @@
                                       [
                                           "name" => "Resource link",
                                           "value" => $resLink,
-                                          "inline" => true
+                                          "inline" => false
                                       ]
 
                                   ]
