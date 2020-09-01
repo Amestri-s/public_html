@@ -201,7 +201,8 @@
 
                     "embeds" => [
                         [
-                            "content" => "<@723622974443225120>"
+                            "content" => "<@723622974443225120>",
+
                             "title" => "Application",
 
                             "type" => "rich",
