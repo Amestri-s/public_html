@@ -38,7 +38,7 @@
 
                 "timestamp" => $timestamp,
 
-                "color" => hexdec( "#ff0000" ),
+                "color" => hexdec("#ff0000"),
 
                 "footer" => [
                     "text" => "SCFR",
@@ -55,13 +55,14 @@
                         "value" => $noticeDetails['text'],
                         "inline" => false
                     ],
-[
+                    [
                         "name" => "Author",
                         "value" => $noticeDetails['author'],
                         "inline" => false
                     ]
 
                 ]
+            ]
         ]
 
     ], JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE );
