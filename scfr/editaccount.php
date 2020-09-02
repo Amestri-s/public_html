@@ -11,6 +11,7 @@
   if(!(isset($_SESSION['perm'])) || !($_SESSION['perm'] >= 4)) {
     header('Location: /scfr/auth/');
   exit;
+  }
 
   $id = $_GET['id'];
 
@@ -21,7 +22,7 @@
 
   $certLookup = mysqli_query($link, "SELECT * FROM certs WHERE username=$username");
 
-  if($_SERVER["REQUEST_METHOD"] == "POST"){
+  if($_SERVER["REQUEST_METHOD"] == "POST") {
     $certName = trim($_POST['certName']);
 
     $sql = "INSERT INTO certs (username, certName) VALUES (?, ?)";
@@ -41,7 +42,7 @@
 
   <div class="card p">
 
-    <h5 class="card-header h5">Certs for <?php echo $username; ?></h5>
+    <h5 class="card-header h5">Certs for <?php echo $username; ?> </h5>
 
     <div class="card-body  animated fadeIn slower">
 
