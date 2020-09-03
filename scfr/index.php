@@ -17,7 +17,7 @@
 <div class="p-4"></div>
 <div class="jumbotron animated flipInX delay-1s ">
     <h4 class="display-4 animated fadeIn text-center">What we offer</h2>
-    <p class="lead animated fadeIn text-center">We have careers available in many different disciplines including investigation, public relations, firefighting, providing healthcare and more. You can apply for the department by creating an account and visiting the your dashbaord page.</p>
+    <p class="lead animated fadeIn text-center">We have careers available in many different disciplines including investigation, public relations, firefighting, providing healthcare and more. You can apply for the department by creating an account, logging into it, and clicking the new application button in your dashboard.</p>
     <div class="text-center">
         <a class="btn btn-outline-danger waves-effect mx-auto" href="/scfr/dashboard.php">Apply now</a>
     </div>
