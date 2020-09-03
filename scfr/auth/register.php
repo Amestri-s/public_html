@@ -116,7 +116,7 @@ require "require/head.php"
             <div class="form-group">
                 <input type="submit" class="btn btn-danger" value="Sign up">
             </div>
-            <p>Already have an account? <a href="/scfr/Auth">Login here</a>.</p>
+            <p>Already have an account? <a href="/scfr/auth">Login here</a>.</p>
         </form>
     </div>    
 
