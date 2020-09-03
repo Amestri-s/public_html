@@ -17,7 +17,7 @@
 
   $accountLookup = mysqli_query($link, "SELECT * FROM members WHERE id=$id");
   $accountData = mysqli_fetch_array($accountLookup);
-
+  echo(mysqli_error($link));
   $username = $accountData['username'];
 
   $certLookup = mysqli_query($link, "SELECT * FROM certs WHERE username=$username");
