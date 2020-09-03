@@ -32,6 +32,7 @@
 
       if(!(mysqli_stmt_execute($stmt))){
         echo "Something went wrong. Please try again later.";
+        echo "Error: " . mysqli_error($sql);
       }
     }
   }
