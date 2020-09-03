@@ -20,7 +20,7 @@
   echo(mysqli_error($link));
   $username = $accountData['username'];
 
-  $certLookup = mysqli_query($link, "SELECT * FROM certs WHERE username=".$username);
+  $certLookup = mysqli_query($link, "SELECT * FROM certs WHERE username=$username");
 
   if($_SERVER["REQUEST_METHOD"] == "POST") {
     $certName = trim($_POST['certName']);
@@ -36,6 +36,8 @@
       }
     }
   }
+
+  echo htmlspecialchars($_SERVER["PHP_SELF"]);
 
 ?>
 
