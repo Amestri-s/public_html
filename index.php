@@ -2,6 +2,8 @@
 
   $title = "Welcome to the SCFR website!";
   require "require/head.php";
+
+  header('Location: /scfr/');
   
 
 ?>
