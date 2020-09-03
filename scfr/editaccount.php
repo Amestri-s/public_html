@@ -14,6 +14,7 @@
   }
 
   $id = $_GET['id'];
+  echo($id);
 
   $accountLookup = mysqli_query($link, "SELECT * FROM members WHERE id=$id");
   $accountData = mysqli_fetch_array($accountLookup);
