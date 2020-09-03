@@ -37,8 +37,6 @@
     }
   }
 
-  echo htmlspecialchars($_SERVER["PHP_SELF"]);
-
 ?>
 
 <div class="m-3 animated fadeIn">
@@ -89,7 +87,7 @@
 
       <hr>
 
-          <form class="border border-light p-3 card-body" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post">
+          <form class="border border-light p-3 card-body" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); echo("?id=".$id); ?>" method="post">
 
                   <label for="certName">Cert name</label>
 
