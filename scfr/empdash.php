@@ -30,10 +30,11 @@ mysqli_close($link);
 
 ?>
 
-<div class="jumbotron animated zoomIn delay-1s">
-    <h2 class="display-4 animated fadeIn text-center">Quick actions</h2>
+<div class="jumbotron animated zoomIn">
+    <h3 class="display-4 animated fadeIn text-center">Quick actions</h3>
+    <hr>
 
-    <div class="card-deck  animated fadeIn delay-2s">
+    <div class="card-deck  animated fadeIn">
 
     <!-- Card -->
     <div class="card mb-2">
