@@ -30,7 +30,7 @@ mysqli_close($link);
 
 ?>
 
-<div class="jumbotron animated zoomIn">
+<div class="jumbotron">
     <h3 class="display-4 animated fadeIn text-center">Quick actions</h3>
     <hr>
 
