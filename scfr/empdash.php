@@ -30,6 +30,78 @@ mysqli_close($link);
 
 ?>
 
+<div class="jumbotron animated zoomIn delay-1s">
+    <h2 class="display-4 animated fadeIn text-center">Quick actions</h2>
+
+    <div class="card-deck  animated fadeIn delay-2s">
+
+    <!-- Card -->
+    <div class="card mb-2">
+
+    <!--Card content-->
+    <div class="card-body">
+
+        <!--Title-->
+        <h4 class="card-title text-center">Coming soon</h4>
+        <!--Text-->
+
+    </div>
+
+    </div>
+    <!-- Card -->
+
+    <!-- Card -->
+    <div class="card mb-2">
+
+    <!--Card content-->
+    <div class="card-body">
+
+        <!--Title-->
+        <h4 class="card-title text-center">Coming soon</h4>
+        <!--Text-->
+
+    </div>
+
+    </div>
+    <!-- Card -->
+
+    <!-- Card -->
+    <div class="card mb-2">
+
+    <!--Card content-->
+    <div class="card-body">
+
+        <!--Title-->
+        <h4 class="card-title text-center">Coming soon</h4>
+        <!--Text-->
+
+    </div>
+
+    </div>
+    <!-- Card -->
+
+    <!-- Card -->
+    <div class="card mb-2">
+
+    <!--Card content-->
+    <div class="card-body">
+
+        <!--Title-->
+        <h4 class="card-title text-center">Coming soon</h4>
+        <!--Text-->
+
+    </div>
+
+</div>
+<!-- Card -->
+
+
+
+
+    </div>
+    <!-- Card deck -->
+</div>
+
 
 
 <div class="m-3 animated fadeIn">
