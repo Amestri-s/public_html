@@ -1,13 +1,6 @@
 <?php
     $title = "Homepage";
     require "require/head.php";
-
-    <meta property="og:title" content="SCFR | Homepage">
-    <meta property="og:site_name" content="SCFR">
-    <meta property="og:url" content="https://scfr.site/scfr">
-    <meta property="og:description" content="The SCFR site provides an intuitive way of viewing and adjusting information at a glance. Whether it be through creating and tracking apps, or even reporting a call or fleet damage.">
-    <meta property="og:type" content="website">
-    <meta property="og:image" content="https://scfr.site/img/logo.png">
 ?>
 
 <div class="jumbotron animated zoomIn">
