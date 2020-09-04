@@ -40,7 +40,16 @@ mysqli_close($link);
         </button>
       </div>
       <div class="modal-body">
-        ...
+        <form method=post action=''>
+            <select name='employee[]' size=4 multiple>
+                <option value='red'>Red</option>
+                <option value='red'>Red</option>
+                <option value='red'>Red</option>
+                <option value='red'>Red</option>
+                <option value='red'>Red</option>
+             </select>
+             <input type=submit></form>
+        </form>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
