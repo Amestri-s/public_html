@@ -213,7 +213,7 @@
 
               echo "<td>".$res['accepted_at']."</td>";
 
-              echo "<td><a class='btn btn-red' href=\"action.php?id=$res[id]&action=del&ret=admin\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>  |  <a class='btn btn-green' href=\"action.php?id=$res[id]&action=prom&ret=admin\" onClick=\"return confirm('Are you sure you want to promote this user by 1?')\">Promote</a> | <a class='btn btn-red' href=\"action.php?id=$res[id]&action=dem&ret=admin\" onClick=\"return confirm('Are you sure you want to demote this user by 1?')\">Demote</a></td>";    
+              echo "<td><a class='btn btn-red' href=\"action.php?id=$res[id]&action=del&ret=admin\" onClick=\"return confirm('Are you sure you want to delete?')\">X</a>    <a class='btn btn-green' href=\"action.php?id=$res[id]&action=prom&ret=admin\" onClick=\"return confirm('Are you sure you want to promote this user by 1?')\">Promote</a>  <a class='btn btn-red' href=\"action.php?id=$res[id]&action=dem&ret=admin\" onClick=\"return confirm('Are you sure you want to demote this user by 1?')\">Demote</a></td>";
 
             }
 
@@ -241,11 +241,11 @@
 
     <h5 class="card-header h5">Current notices</h5>
 
-    <div class="card-body table-responsive animated fadeIn slower">
+    <div class="card-body table-responsive">
 
       <!--Table-->
 
-      <table id="tablePreview" class="table table-hover table-bordered">
+      <table id="tablePreview" class="table table-hover table-bordered animated fadeIn slower">
 
         <!--Table body-->
 
@@ -319,11 +319,11 @@
 
     <h5 class="card-header h5">Resources</h5>
 
-    <div class="card-body table-responsive animated fadeIn slower">
+    <div class="card-body table-responsive">
 
       <!--Table-->
 
-      <table id="tablePreview" class="table table-hover table-bordered">
+      <table id="tablePreview" class="table table-hover table-bordered animated fadeIn slower">
 
         <!--Table body-->
 
