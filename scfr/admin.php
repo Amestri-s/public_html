@@ -183,7 +183,7 @@
 
       <!--Table-->
 
-      <table id="tablePreview" class="table table-hover table-bordered">
+      <table id="table" class="table table-hover table-bordered">
 
         <!--Table body-->
 
@@ -399,6 +399,11 @@
 
 </div>
 
+<script>
+
+    document.getElementById('table').innerHTML = '';
+
+</script>
 
 
 <?php
