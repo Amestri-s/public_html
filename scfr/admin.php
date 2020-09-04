@@ -173,7 +173,7 @@
 
 ?>
 
-<div class="m-3 animated fadeIn">
+<div class="animated fadeIn">
 
   <div class="card p">
 
