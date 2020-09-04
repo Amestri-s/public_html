@@ -189,13 +189,13 @@
 
         <thead>
 
-            <td>Username</td>
+            <th>Username</th>
 
-            <td>Perm</td>
+            <th>Perm</th>
 
-            <td>Date created</td>
+            <th>Date created</th>
 
-            <td>Action</td>
+            <th>Action</th>
 
         </thead>
 
