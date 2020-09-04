@@ -405,7 +405,7 @@
 
     var row = table.insertRow(0);
 
-    Var cell1 = row.insertCell(0);
+    var cell1 = row.insertCell(0);
     cell1.innerHTML = "HEY KIDS";
 </script>
 
