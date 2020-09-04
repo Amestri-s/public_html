@@ -183,23 +183,23 @@
 
       <!--Table-->
 
-      <table id="table" class="table table-hover table-bordered">
+      <table class="table table-hover table-bordered">
 
         <!--Table body-->
 
         <thead>
 
-            <th>Username</th>
+            <td>Username</td>
 
-            <th>Perm</th>
+            <td>Perm</td>
 
-            <th>Date created</th>
+            <td>Date created</td>
 
-            <th>Action</th>
+            <td>Action</td>
 
         </thead>
 
-        <tbody>
+        <tbody id="table">
 
           <?php 
 
@@ -400,15 +400,7 @@
 </div>
 
 <script>
-
-var elmtTable = document.getElementById('table');
-var tableRows = elmtTable.getElementsByTagName('tr');
-var rowCount = tableRows.length;
-
-for (var x = rowCount-1; x>0; x--){
-    elmtTable.removeChild(tableRows[x]);
-}
-
+    document.getElementById('table').innerHTML = "";
 </script>
 
 
