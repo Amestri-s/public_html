@@ -399,11 +399,6 @@
 
 </div>
 
-<script>
-
-    document.getElementById('table').innerHTML = '';
-
-</script>
 
 
 <?php
