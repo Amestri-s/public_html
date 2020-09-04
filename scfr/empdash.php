@@ -52,7 +52,7 @@ mysqli_close($link);
 
 
 <div class="jumbotron">
-    <h3 class="display-4 animated fadeIn text-center">Quick actions (W.I.P)</h3>
+    <h3 class="display-6 animated fadeIn text-center">Quick actions (W.I.P)</h3>
     <hr>
 
     <div class="card-deck  animated fadeIn">
@@ -78,7 +78,7 @@ mysqli_close($link);
     <div class="card mb-2">
 
     <!--Card content-->
-    <div class="card-body">
+    <div class="card-body text-center">
 
         <!--Title-->
                 <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#submitPatrolLog">
@@ -95,7 +95,7 @@ mysqli_close($link);
     <div class="card mb-2">
 
     <!--Card content-->
-    <div class="card-body">
+    <div class="card-body text-center">
 
         <!--Title-->
                 <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#submitPatrolLog">
