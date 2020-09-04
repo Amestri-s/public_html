@@ -62,7 +62,7 @@ mysqli_close($link);
     <div class="card mb-2">
 
     <!--Card content-->
-    <div class="card-body">
+    <div class="card-body text-center">
 
         <!--Title-->
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#basicExampleModal">
