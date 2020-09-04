@@ -41,7 +41,7 @@ mysqli_close($link);
       </div>
       <div class="modal-body">
         <form method=post action=''>
-            <select class="custom-select" name='employee[]' multiple required>
+            <select class="custom-select" name='employee[]' data-live-search="true" multiple required>
                 <option value='red'>Red</option>
                 <option value='red'>Red</option>
                 <option value='red'>Red</option>
