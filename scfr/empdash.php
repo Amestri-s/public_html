@@ -42,7 +42,6 @@ mysqli_close($link);
       <div class="modal-body">
         <form method=post action=''>
             <select class="custom-select" name='employee[]' multiple required>
-                <option selected>Rdd</option>
                 <option value='red'>Red</option>
                 <option value='red'>Red</option>
                 <option value='red'>Red</option>
