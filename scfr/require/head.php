@@ -164,6 +164,16 @@ if (isset($_SESSION['username'])) {
 
 <head>
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-177235805-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-177235805-1');
+    </script>
+
     <meta property="og:title" content="SCFR | Homepage">
     <meta property="og:site_name" content="SCFR">
     <meta property="og:url" content="https://scfr.site/scfr">
