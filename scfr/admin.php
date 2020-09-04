@@ -400,7 +400,7 @@
 </div>
 
 <script>
-    Var table = document.getElementById('table')
+    Var table = document.getElementById('table');
     table.innerHTML = "";
 
     var row = table.insertRow(0);
