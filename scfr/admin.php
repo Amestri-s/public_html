@@ -407,6 +407,16 @@
 
     var cell1 = row.insertCell(0);
     cell1.innerHTML = "HEY KIDS";
+
+    var row1 = table.insertRow(0);
+
+        var cell11 = row1.insertCell(0);
+        cell11.innerHTML = "HEY KIDS";
+
+        var row2 = table.insertRow(0);
+
+            var cell2 = row2.insertCell(0);
+            cell2.innerHTML = "HEY KIDS";
 </script>
 
 
