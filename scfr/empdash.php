@@ -230,14 +230,6 @@ mysqli_close($link);
 
 </div>
 
-<script>
-  $(document).ready(function () {
-      $('select').selectize({
-          sortField: 'text'
-      });
-  });
-</script>
-
 <?php
 
 require "require/footer.php";
