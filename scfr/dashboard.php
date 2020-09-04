@@ -38,7 +38,7 @@ mysqli_close($link);
 
     <h5 class="card-header h5">Your SCFR apps</h5>
 
-    <div class="card-body">
+    <div class="card-body table-responsive">
 
       <!--Table-->
 
