@@ -44,12 +44,15 @@ mysqli_close($link);
       </div>
       <div class="modal-body">
         <form method=post action=''>
-            <select class="form-control selectpicker" name='employee[]' data-live-search="true" multiple required>
-                <option value='red'>Red</option>
-                <option value='red'>Red</option>
-                <option value='red'>Red</option>
-                <option value='red'>Red</option>
-             </select>
+            <div class="form-group row">
+                <label for="" class="col-sm-2 form-control-label">Employees on scene</label>
+                <select class="form-control selectpicker" name='employee[]' data-live-search="true" multiple required>
+                    <option value='red'>Red</option>
+                    <option value='red'>Red</option>
+                    <option value='red'>Red</option>
+                    <option value='red'>Red</option>
+                 </select>
+            </div>
              <input type=submit></form>
         </form>
       </div>
