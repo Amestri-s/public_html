@@ -173,17 +173,17 @@
 
 ?>
 
-<div class="animated fadeIn">
+<div class="m-3 animated fadeIn">
 
   <div class="card p">
 
     <h5 class="card-header h5">User management</h5>
 
-    <div class="card-body table-responsive animated fadeIn slower">
+    <div class="card-body table-responsive">
 
       <!--Table-->
 
-      <table class="table table-hover table-bordered">
+      <table class="table table-hover table-bordered animated fadeIn slower">
 
         <!--Table body-->
 
