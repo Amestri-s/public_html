@@ -42,7 +42,7 @@ mysqli_close($link);
       </div>
       <div class="modal-body">
         <form method=post action=''>
-            <select id="select-employee" name='employee[]' multiple required>
+            <select id="select-employee" name='employee[]' placeholder="Select all employees on scene" multiple required>
                 <option value='Brown'>Brown</option>
                 <option value='Orange'>Orange</option>
                 <option value='dred'>dred</option>
