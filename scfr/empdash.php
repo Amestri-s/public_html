@@ -65,7 +65,7 @@ mysqli_close($link);
 
         <!--Title-->
         <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#submitPatrolLog">
-          Submit patrol log
+          Submit call log
         </button>
         <!--Text-->
 
