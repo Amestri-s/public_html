@@ -30,12 +30,11 @@ mysqli_close($link);
 
 ?>
 <!-- Modal -->
-<div class="modal fade" id="basicExampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-  aria-hidden="true">
-  <div class="modal-dialog" role="document">
+<div class="modal fade" id="submitPatrolLog" tabindex="-1" role="dialog" aria-labelledby="submitPatrolLog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+        <h5 class="modal-title" id="submitPatrolLogTitle">Modal title</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -65,7 +64,7 @@ mysqli_close($link);
     <div class="card-body text-center">
 
         <!--Title-->
-        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#basicExampleModal">
+        <button type="button" class="btn btn-danger" data-toggle="modal" data-target="#submitPatrolLog">
           Submit patrol log
         </button>
         <!--Text-->
