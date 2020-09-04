@@ -4,7 +4,7 @@
 ?>
 
 <div class="jumbotron animated zoomIn">
-    <h2 class="display-4 animated fadeIn">Hello, <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {echo $_SESSION['username'];} else {echo "Guest";}?></h2>
+    <h4 class="display-4 animated fadeIn">Hello, <?php if (isset($_SESSION['loggedin']) && $_SESSION['loggedin'] == true) {echo $_SESSION['username'];} else {echo "Guest";}?></h4>
     <p class="lead animated fadeIn">The Sussex County Fire Rescue is responsible for saving lives, preventing loss of life, protecting property and citizens from fires, and other emergencies.</p>
     <hr class="my-4 animated fadeIn delay-1s">
     <p class="animated fadeIn delay-1s">We all strive to complete this by providing emergency services, community outreach, and fire education. </p>
