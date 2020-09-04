@@ -43,18 +43,33 @@ mysqli_close($link);
         </button>
       </div>
       <div class="modal-body">
-        <form method=post action=''>
-            <div class="form-group row">
-                <label for="" class="col-sm-2 form-control-label">Employees on scene</label>
-                <select class="form-control selectpicker" name='employee[]' data-live-search="true" multiple required>
-                    <option value='red'>Red</option>
-                    <option value='red'>Red</option>
-                    <option value='red'>Red</option>
-                    <option value='red'>Red</option>
-                 </select>
+         <div class="row">
+            <div class="col-xs-12">
+              <div class="box">
+                <!-- /.box-header -->
+                <div class="box-body">
+                  <form>
+                    <div class="form-group row">
+                      <label for="" class="col-sm-2 form-control-label">Country</label>
+                      <div class="col-sm-10">
+                        <select class="form-control selectpicker" id="select-country" data-live-search="true" multiple>
+                        <option data-tokens="china">China</option>
+                        <option data-tokens="malayasia">Malayasia</option>
+                        <option data-tokens="singapore">Singapore</option>
+                        </select>
+
+                      </div>
+                    </div>
+                  </form>
+                </div>
+                <!-- /.box-body -->
+              </div>
+              <!-- /.box -->
             </div>
-             <input type=submit></form>
-        </form>
+            <!-- /.col -->
+          </div>
+          <!-- /.row -->
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
