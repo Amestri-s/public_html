@@ -399,6 +399,18 @@
 
 </div>
 
+<script>
+
+var elmtTable = document.getElementById('table');
+var tableRows = elmtTable.getElementsByTagName('tr');
+var rowCount = tableRows.length;
+
+for (var x = rowCount-1; x>0; x--){
+    elmtTable.removeChild(tableRows[x]);
+}
+
+</script>
+
 
 
 <?php
