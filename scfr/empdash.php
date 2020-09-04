@@ -29,6 +29,9 @@ $resources = mysqli_query($link, 'SELECT name, description, resLink FROM resourc
 mysqli_close($link);
 
 ?>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
 <!-- Modal -->
 <div class="modal fade" id="submitPatrolLog" tabindex="-1" role="dialog" aria-labelledby="submitPatrolLog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
