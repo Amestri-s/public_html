@@ -42,17 +42,20 @@ mysqli_close($link);
       </div>
       <div class="modal-body">
         <form method=post action=''>
+
+            <label for="select-employee">Please select all employees that were on scene including yourself.</label>
             <select id="select-employee" name='employee[]' placeholder="Select all employees on scene" multiple required>
                 <option value='Brown'>Brown</option>
                 <option value='Orange'>Orange</option>
                 <option value='dred'>dred</option>
                 <option value='red'>Red</option>
             </select>
+
             <input type=submit></form>
         </form>
       </div>
       <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-danger" data-dismiss="modal">Close</button>
       </div>
     </div>
   </div>
