@@ -42,15 +42,12 @@ mysqli_close($link);
       </div>
       <div class="modal-body">
         <form method=post action=''>
-            <div class="form-group row">
-                <label for="" class="col-sm-2 form-control-label">Employees on scene</label>
-                <select id="select-employee" name='employee[]' multiple required>
-                    <option value='red'>Red</option>
-                    <option value='dred'>Red</option>
-                    <option value='dred'>Red</option>
-                    <option value='red'>Red</option>
-                 </select>
-            </div>
+            <select id="select-employee" name='employee[]' multiple required>
+                <option value='Brown'>Brown</option>
+                <option value='Orange'>Orange</option>
+                <option value='dred'>dred</option>
+                <option value='red'>Red</option>
+            </select>
             <input type=submit></form>
         </form>
       </div>
