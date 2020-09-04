@@ -30,6 +30,9 @@ mysqli_close($link);
 
 ?>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/js/standalone/selectize.min.js" integrity="sha256-+C0A5Ilqmu4QcSPxrlGpaZxJ04VjsRjKu+G82kl5UJk=" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.12.6/css/selectize.bootstrap3.min.css" integrity="sha256-ze/OEYGcFbPRmvCnrSeKbRTtjG4vGLHXgOqsyLFTRjg=" crossorigin="anonymous" />
+
 <!-- Modal -->
 <div class="modal fade" id="submitPatrolLog" tabindex="-1" role="dialog" aria-labelledby="submitPatrolLog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
@@ -41,33 +44,18 @@ mysqli_close($link);
         </button>
       </div>
       <div class="modal-body">
-         <div class="row">
-            <div class="col-xs-12">
-              <div class="box">
-                <!-- /.box-header -->
-                <div class="box-body">
-                  <form>
-                    <div class="form-group row">
-                      <label for="" class="col-sm-2 form-control-label">Country</label>
-                      <div class="col-sm-10">
-                        <select class="form-control selectpicker" id="select-country" data-live-search="true" multiple>
-                        <option data-tokens="china">China</option>
-                        <option data-tokens="malayasia">Malayasia</option>
-                        <option data-tokens="singapore">Singapore</option>
-                        </select>
-
-                      </div>
-                    </div>
-                  </form>
-                </div>
-                <!-- /.box-body -->
-              </div>
-              <!-- /.box -->
+        <form method=post action=''>
+            <div class="form-group row">
+                <label for="" class="col-sm-2 form-control-label">Employees on scene</label>
+                <select id="select-employee" name='employee[]' multiple required>
+                    <option value='red'>Red</option>
+                    <option value='dred'>Red</option>
+                    <option value='dred'>Red</option>
+                    <option value='red'>Red</option>
+                 </select>
             </div>
-            <!-- /.col -->
-          </div>
-          <!-- /.row -->
-        </div>
+            <input type=submit></form>
+        </form>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
@@ -245,7 +233,13 @@ mysqli_close($link);
 
 </div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/js/bootstrap-select.min.js"></script>
+<script>
+  $(document).ready(function () {
+      $('select').selectize({
+          sortField: 'text'
+      });
+  });
+</script>
 
 <?php
 
